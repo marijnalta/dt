@@ -10,4 +10,4 @@ This python program analyses whatsapp group chats using jupyter notebook.
 - The content of this directory will be displayed in your browser. Open the .ipynb file.
 - Run the parts of code (especially the first bit, because it reads the .txt log at the top).
 
-Only works with dutch whatsapp chat logs.
+Only works with dutch whatsapp chat logs yet.
